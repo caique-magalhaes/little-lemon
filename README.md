@@ -15,7 +15,6 @@ A clean, responsive restaurant landing page built to demonstrate modern web layo
     *   Features smooth hover states across interactive cards and buttons.
     *   Implements `transform: scale(1.02);` combined with transition timing functions to create a responsive, tactile lifting effect on user hover.
 
----
 
 ## 💻 Local Setup & Development
 
@@ -35,8 +34,3 @@ To view this project locally on your machine:
    # On macOS/Linux:
    open index.html
    ```
-
----
-
-## 📜 Portfolio Context
-This frontend interface serves as clean proof of native CSS3 positioning, cross-browser responsive design, and performance-optimized micro-interactions without relying on heavy external UI frameworks.
