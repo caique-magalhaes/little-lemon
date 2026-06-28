@@ -120,6 +120,7 @@ article a{
 #open-hours{
     padding-top: 0.5em;
     border-top: 1px solid #4d625b;
+    font-size:12px;
 }
 article:hover{
     box-shadow: 0 10px 30px 0 #aaaa;
